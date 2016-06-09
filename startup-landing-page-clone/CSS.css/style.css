@@ -1,0 +1,50 @@
+html {
+ box-sizing: border-box;
+}
+​*, *​:before, *:after {
+ box-sizing: inherit;
+}
+
+body {
+ font-family: 'Roboto', sans-serif;
+ font-size: 16px;
+ color: #838994 ;
+ letter-spacing: 0.03em;
+}
+
+.top-navigation {
+ background-color:#fff;
+ float: right;
+ margin: 50px;
+}
+
+.top-navigation > .content {
+ height: 500px;
+ margin: 0px auto;
+}
+
+li {
+ float: left;
+ display: inline;
+}
+
+li a {
+ display: block;
+ text-align: center;
+ padding: 14px 16px;
+ text-decoration: none;
+ color: gray;
+}
+
+a:hover {
+ color: black;
+ cursor: pointer;
+}
+
+.introduction {
+ background-image:
+ url('http://i65.tinypic.com/9bm90m.jpg ');
+ background-;
+   
+   
+}
