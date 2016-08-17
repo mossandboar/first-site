@@ -1,0 +1,87 @@
+ *{
+  box-sizing:border-box;
+}
+body {
+  margin: 50;
+  padding: 80;
+}
+
+header {
+  position: absolute;
+  top: 0;
+  left: 0;  
+  right: 0;
+  padding: 10px;
+  background-color: #dee1e4;
+  border-bottom: 1px solid #DDDDDD;
+  height: 90px;
+}
+h1{
+  text-indent: 35px;
+}
+
+.GL-logo{
+  display: inline-block;
+  text-indent: 50px;
+
+
+}
+ a {
+
+  
+  text-decoration: none;
+  padding-left:15px;
+
+}
+
+.top-nav{
+  font-size: 20px;
+  position: absolute;
+  right: 10px;
+  top: 60px;
+  padding-right: 40px;
+}
+
+a.nav-link{
+  font-size: 18px;
+    padding: 0 6px;
+}
+
+.pages *{
+    border: 1px solid #DDDDDD;
+    border-radius: 3px;
+    display: inline-block;
+    font-size: 15;
+    margin-bottom: 30px;
+    
+}
+ul.listings{
+  padding-left: 0;
+}
+
+li{
+  list-style: none;
+  padding: 5;
+}
+
+.fa-star:hover{
+  color: yellow;
+}
+.fa-trash:hover{
+  color: blue;
+}
+
+form{
+  padding-top: 20
+}
+
+button.search-button {
+    margin-top: -15px;
+}
+footer {
+    border: 1px solid;
+    color: lightgrey;
+    text-align: center;
+    border-radius: 5px;
+}
+

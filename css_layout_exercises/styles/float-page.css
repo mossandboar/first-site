@@ -1,0 +1,68 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+main {
+  padding-left: 90px;
+  padding-right: 90px;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pic-size {
+  width: 300px;
+}
+
+.pic1, .pic2{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.pic1 {
+  float: left;
+  margin-right: 15px;
+}
+
+.pic2 {
+  float: right;
+  margin-left: 15px;
+}
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	00px;
+}
+
+.pic1{
+	float: left;
+	margin-left: 15px;
+    
+}
+.pic2{
+	float: right;
+	margin-right: 14px;
+}
