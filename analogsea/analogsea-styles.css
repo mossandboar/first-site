@@ -1,0 +1,75 @@
+
+
+   body{
+  display: block;
+  margin: 8px;
+  background-color: blue;
+ }
+img{
+  width: auto;
+  height: 75px;
+}
+
+ header{
+  
+    
+  text-align: center;
+  font-size: 35px;
+}
+h1{
+  text-align: center;
+  color: grey;
+
+}
+section{
+  width: 400px;
+  background-color: white;
+  margin-top: 60px;
+  margin-left: 37%;
+  margin-right: 50px;
+  margin-bottom: 90px;
+  height: 400px;
+
+}
+button {
+  cursor: pointer;
+  border:2px;
+  height: 55px;
+  margin-left: 10%;
+  font-size: 25px;
+  width: 320px;
+  border: 3px solid #73AD21;
+  border-radius: 5px;
+  padding: 10px;
+  color: white;
+        background-color: green;
+  
+    
+}
+button:hover { 
+background-color: #007000;
+}  
+
+
+p{
+  text-align: center;
+}
+input{
+  
+  height: 55px;
+  width: 320px;
+  margin-left: 10%;
+}
+label{
+  margin-left: 10%;
+}
+.line{
+    cursor: pointer;
+   text-decoration: underline;
+}
+footer{
+  cursor: pointer;
+  text-align: center;
+  color: white;
+}
+
